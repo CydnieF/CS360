@@ -1,4 +1,4 @@
-Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address? 
+**Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?** 
 The code can currently be tested in Android Studio. If it was compiled as an API, it would require a phone capable of running Android 10 or higher. The goal behind creating this app was to allow users to be able to track their weights. Users can enter their weights daily. Users can then view, edit, and delete these weights. Creating this app also allowed myself to gain experience creating applications. 
 
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
